@@ -1,0 +1,6 @@
+libraries
+*.o
+.depend
+.editorconfig
+.vscode
+
